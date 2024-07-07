@@ -1,6 +1,5 @@
 ## Hi there I'm Vyshnavi 👋
 
-Here are some ideas to get you started:
 👀 About Me: I'm a data professional with a passion for uncovering insights through analytics. My expertise has driven significant improvements in efficiency, productivity, and decision-making across various organizations. My approach combines rigorous analysis with a creative touch, turning complex data into actionable strategies.
 
 - 🔭 I’m currently working on MIT Data Science Certification Program
