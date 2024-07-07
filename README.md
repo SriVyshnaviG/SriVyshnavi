@@ -1,6 +1,6 @@
 ## Hi there I'm Vyshnavi 👋
 
-👀 About Me: I'm a data professional with a passion for uncovering insights through analytics. My expertise has driven significant improvements in efficiency, productivity, and decision-making across various organizations. My approach combines rigorous analysis with a creative touch, turning complex data into actionable strategies.
+👀 About Me: I'm a data professional with a passion for uncovering insights through analytics and developing Machine Learning models. My expertise has driven significant improvements in efficiency, productivity, and decision-making across various organizations. My approach combines rigorous analysis with a creative touch, turning complex data into actionable strategies.
 
 - 🔭 I’m currently working on MIT Data Science Certification Program
 - 🌱 Skills & Expertise:
